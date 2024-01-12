@@ -10,4 +10,6 @@ Multiply-defined labels are printed as well.
 
 Based on public-domain code by David Carlisle.
 
+**More information in the Discussions tab, above.**
+
 Code and documentation are on CTAN: https://ctan.org/pkg/labelschanged
